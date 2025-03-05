@@ -1,0 +1,7 @@
+{
+    "packet_length":8192,
+    "timeout":5000,
+    "maximum_image_size":500,
+    "image_save_path" : "/home/large_space/PTH-pig-images/"
+}
+
